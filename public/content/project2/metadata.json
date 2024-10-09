@@ -1,0 +1,15 @@
+{
+  "id": "2",
+  "title": "E-commerce Platform",
+  "description": "A full-featured e-commerce platform with product management, cart functionality, and secure checkout.",
+  "imageUrl": "https://source.unsplash.com/random/800x600?ecommerce",
+  "tags": ["Node.js", "Express", "MongoDB", "React"],
+  "additionalImages": [
+    "https://source.unsplash.com/random/800x600?shopping",
+    "https://source.unsplash.com/random/800x600?payment"
+  ],
+  "links": [
+    { "title": "GitHub Repository", "url": "https://github.com/example/project2" },
+    { "title": "Live Demo", "url": "https://example.com/project2-demo" }
+  ]
+}

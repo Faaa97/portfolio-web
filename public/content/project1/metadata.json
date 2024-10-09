@@ -1,0 +1,15 @@
+{
+  "id": "1",
+  "title": "Responsive Web Application",
+  "description": "A modern, responsive web application built using React and styled with Tailwind CSS.",
+  "imageUrl": "https://source.unsplash.com/random/800x600?web",
+  "tags": ["React", "Tailwind CSS", "Web Development"],
+  "additionalImages": [
+    "https://source.unsplash.com/random/800x600?coding",
+    "https://source.unsplash.com/random/800x600?responsive"
+  ],
+  "links": [
+    { "title": "GitHub Repository", "url": "https://github.com/example/project1" },
+    { "title": "Live Demo", "url": "https://example.com/project1-demo" }
+  ]
+}

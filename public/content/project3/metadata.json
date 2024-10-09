@@ -1,0 +1,16 @@
+{
+  "id": "3",
+  "title": "Mobile Fitness App",
+  "description": "A cross-platform mobile app for tracking workouts, nutrition, and personal fitness goals.",
+  "imageUrl": "https://source.unsplash.com/random/800x600?fitness",
+  "tags": ["React Native", "Firebase", "Mobile Development"],
+  "additionalImages": [
+    "https://source.unsplash.com/random/800x600?workout",
+    "https://source.unsplash.com/random/800x600?nutrition"
+  ],
+  "links": [
+    { "title": "GitHub Repository", "url": "https://github.com/example/project3" },
+    { "title": "App Store", "url": "https://apps.apple.com/example/project3" },
+    { "title": "Google Play", "url": "https://play.google.com/store/apps/details?id=com.example.project3" }
+  ]
+}
